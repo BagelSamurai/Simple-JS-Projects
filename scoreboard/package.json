@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0b56dfvef",
+  "description": "https://scrimba.com/s0b56dfvef/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

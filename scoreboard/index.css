@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #111827;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#Home{
+    color: #BAE6FD;
+}
+#Guest{
+    color: #FECDD3;
+}
+
+#winner{
+    margin: auto 0;
+    color: #FB7185;
+}
+
+.score-card{
+    padding: 50px;
+    background-color: #080001;
+    border-radius: 10px;
+    color: #F59E0B;
+    font-size: 50px;
+    margin: 15px 0;
+}
+
+
+button{
+   
+    text-align: center;
+    border-radius: 10%;
+    background: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    padding: 10px;
+    margin: 3px;
+}
+
+button:hover{
+    cursor: pointer;
+    color: #FB7185;
+    border: 2px solid #FB7185;
+    font-size: 120%;
+}
